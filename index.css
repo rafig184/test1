@@ -1,0 +1,55 @@
+.body {
+    background-color: grey;
+}
+
+.h1 {
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+    padding-top: 2%;
+}
+
+.appTable {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 1%;
+    text-align: center;
+    vertical-align: middle;
+    align-items:center;
+}
+
+.app {
+    background-color: gainsboro;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 2%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.addOrderButton {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: gainsboro;
+    padding-bottom: 1%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.h4 {
+    font-family: 'Russo One', sans-serif;
+}
+
+#addButton {
+    margin-right: 1%;
+}
+
+.thLeft {
+    border-top-left-radius: 10px;
+}
+
+.thRight {
+    border-top-right-radius: 10px;
+}
